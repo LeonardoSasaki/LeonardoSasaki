@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome, visitor :)
 
-<!--
-**LeonardoSasaki/LeonardoSasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> ℹ️ About me </h2>
 
-Here are some ideas to get you started:
+Just a typical student coding as a hobby. Currently interested in learning & improving current knowledge in the following areas:
+* Hacking
+* Malware
+* Reverse Engineering
+* OS Dev
+* Eletronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✏️ Feel free to contribute in my projects. For contact, use the email in the description.
+
+<p><em>Github is currently the only social media i use, any other profile under the name of "Leonardo Sasaki" is not me.</br></em></p>
+
+<h2> 📋 My Github stats </h2>
+
+![LeonardoSasaki's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoSasaki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### [![GitHub LeonardoSasaki](https://img.shields.io/github/followers/LeonardoSasaki?label=follow&style=social)](https://github.com/LeonardoSasaki) Follow me <3
