@@ -2,7 +2,7 @@
 
 <h2> ℹ️ About me </h2>
 
-Just a typical student coding as a hobby. Currently interested in learning & improving current knowledge in the following areas:
+Just a typical 17yo student coding as a hobby. Currently interested in learning & improving current knowledge in the following areas:
 * Hacking
 * Malware
 * Reverse Engineering
