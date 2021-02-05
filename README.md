@@ -11,9 +11,7 @@ Just a typical 17yo student coding as a hobby. Currently interested in learning 
 
 ✏️ Feel free to contribute in my projects. For contact, use the email in the description.
 
-📂 Current projects im working at: DeadSock
-
-<p><em>Github is currently the only social media i use, any other profile under the name of "Leonardo Sasaki" is not me.</br></em></p>
+📂 Current projects im working at: DeadSock, Bonfire
 
 <h2> 📋 My Github stats </h2>
 
