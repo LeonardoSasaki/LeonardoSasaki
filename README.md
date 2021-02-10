@@ -1,8 +1,9 @@
 # Welcome, visitor :)
 
+<details><summary><h2>🌐 EN-US</h2></summary>
 <h2> ℹ️ About me </h2>
 
-Just a typical 17yo student coding as a hobby. Currently interested in learning & improving current knowledge in the following areas:
+Just a 17yo student coding as a hobby. Currently interested in learning & improving current knowledge in the following areas:
 * Hacking
 * Malware
 * Reverse Engineering
@@ -11,7 +12,21 @@ Just a typical 17yo student coding as a hobby. Currently interested in learning 
 
 ✏️ Feel free to contribute in my projects. For contact, use the email in the description.
 
-📂 Current projects im working at: DeadSock, Bonfire
+📂 Current projects im working at: DeadSock, Bonfire </details>
+<details><summary><h2>🌐 PT-BR</h2></summary>
+<h2> ℹ️ Sobre mim </h2>
+
+Apenas um estudante de 17 anos programando como hobby. Atualmente interessado em aprender & aprimorar meus conhecimentos nas seguintes áreas:
+
+* Hacking
+* Malware
+* Engenharia Reversa
+* OS Dev
+* Eletrônica
+
+✏️ Sinta-se livre para contribuir em meus projetos. Para contato, use o email na descrição.
+
+📂 Projetos que estou trabalhando atualmente: DeadSock, Bonfire </details>
 
 <h2> 📋 My Github stats </h2>
 
