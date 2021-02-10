@@ -30,6 +30,6 @@ Apenas um estudante de 17 anos programando como hobby. Atualmente interessado em
 
 <h2> 📋 My Github stats </h2>
 
-![LeonardoSasaki's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoSasaki&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSasaki&theme=radical)](https://github.com/LeonardoSasaki)
+![LeonardoSasaki's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoSasaki&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSasaki&theme=radical)](https://github.com/LeonardoSasaki)
 
 ### [![GitHub LeonardoSasaki](https://img.shields.io/github/followers/LeonardoSasaki?label=follow&style=social)](https://github.com/LeonardoSasaki) Follow me <3
