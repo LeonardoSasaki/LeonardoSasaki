@@ -12,7 +12,7 @@ Just a 17yo student coding as a hobby. Currently interested in learning & improv
 
 ✏️ Feel free to contribute in my projects. For contact, use the email in the description.
 
-📂 Current projects im working at: DeadSock, Bonfire </details>
+📂 Current projects im working at: DeadSock </details>
 <details><summary><h2>🌐 PT-BR</h2></summary>
 <h2> ℹ️ Sobre mim </h2>
 
